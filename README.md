@@ -9,10 +9,10 @@
 <h1>💫 About Me: </h1>
 
 <ul>
- <li>🔭 I’m currently working as IT Apprentice at Cobrecom</li>
- <li>🌱 I’m currently learning JavaScript, IONIC + Vue3.</li>
- <li>💬 Ask me about HTML & CSS</li>
- <li>⚡ Fun fact : I love RPG</li>
+ <li>🔭 I’m currently working as <strong>IT Apprentice</strong> at <strong>Cobrecom</strong></li>
+ <li>🌱 I’m currently learning <strong>JavaScript</strong>, <strong>IONIC + Vue3.</strong></li>
+ <li>💬 Ask me about <strong>HTML</strong> & <strong>CSS</strong></li>
+ <li>⚡ Fun fact I love RPG</li>
 </ul>
 
 <img src="https://visitcount.itsvg.in/api?id=GuiSalva&icon=5&color=12">
