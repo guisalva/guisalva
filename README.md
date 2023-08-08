@@ -15,7 +15,7 @@
  <li>⚡ Fun fact I love RPG</li>
 </ul>
 
-<img src="https://visitcount.itsvg.in/api?id=GuiSalva&icon=5&color=12">
+<!-- <img src="https://visitcount.itsvg.in/api?id=GuiSalva&icon=5&color=12"> -->
 
 <h1>💻 Tech Stack: </h1>
 
