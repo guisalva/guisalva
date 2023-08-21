@@ -42,12 +42,12 @@
 </p>
 
 <p align = "center">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=GuiSalva&show_icons=true&theme=dark&line_height=27">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSalva&layout=compact&langs_count=6&theme=dark">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=GuiSalva&show_icons=true&theme=city_lights&line_height=27&hide_border=true">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSalva&layout=compact&langs_count=6&theme=city_lights&hide_border=true">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GuiSalva&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GuiSalva&show_icons=true&locale=en&layout=compact&theme=city_lights&line_height=0" />
 </p>
 
 <h1>🐍 My Contribution Graph </h1>
