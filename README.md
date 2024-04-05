@@ -1,56 +1,42 @@
-<h1 align="center">Hey there ! 👋</h1>
-
 <p align="center">
  <img src="https://github.com/GuiSalva/GuiSalva/blob/main/images/bannerGitDS.gif" />
 </p>
 
-<h3 align="center">A Frontend developer with a desire to be a Game dev 🎮</h3>
-
-<h1>💫 About Me: </h1>
+<h1> Olá, sou o Guilherme 👋 </h1>
+<h3> Aprendiz de TI </h3>
+<p> Tenho 20 anos e atuo na área de TI há 1 ano, gosto muito de programação WEB e Front-end. </p>
 
 <ul>
- <li>🔭 I’m currently working as <strong>IT Apprentice</strong> at <strong>Cobrecom</strong></li>
- <li>🌱 I’m currently learning <strong>JavaScript</strong>, <strong>IONIC + Vue3.</strong></li>
- <li>💬 Ask me about <strong>HTML</strong> & <strong>CSS</strong></li>
- <li>⚡ Fun fact I love RPG</li>
+ <li>❤️ Apaixonado por Games e Tecnologia</li>
+ <li>🎓 Formando em <strong>Análise e Desenvolvimento de Sistemas</strong> na CEUNSP Itu</li>
+ <li>📚 Cursando <strong>Gestão da Tecnologia da Informação</strong> na FATEC Itu</li>
+ <li>💼 Atualmente trabalhando na <a href="https://cobrecom.com.br/" target="_blank">Cobrecom</a></li>
 </ul>
 
 <!-- <img src="https://visitcount.itsvg.in/api?id=GuiSalva&icon=5&color=12"> -->
 
-<h1>💻 Tech Stack: </h1>
+<h2> 💻 Tech Stack </h2>
+<h4> Minhas Skills </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,mysql,git)](https://skillicons.dev)
 
-<h1>🌐 Reach me: </h1>
+<h4> Estudando </h4>
 
-<a href="mailto:guilherme.s.2@outlook.com" target="_blank">
- <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="My Outlook for contact">
-</a>
-<a href="https://www.linkedin.com/in/oguilherme-salvador" target="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn account">
-</a>
-<a href="https://www.instagram.com/guisal_va" target="_blank">
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram account">
-</a>
+[![My Skills](https://skillicons.dev/icons?i=react,jest,scss,vue)](https://skillicons.dev)
 
-<h1>📊 GitHub Stats: </h1>
+<h4> Tive contato com </h4>
+
+[![My Skills](https://skillicons.dev/icons?i=angular,tailwind,python,java,php,c,figma)](https://skillicons.dev)
+
+
+<h2>📊 GitHub Stats </h2>
 
 <p align="center">
  <img src="https://badges.pufler.dev/years/GuiSalva"/>
  <img src="https://badges.pufler.dev/repos/GuiSalva"/>
- <img src="https://badges.pufler.dev/commits/monthly/GuiSalva" />
 </p>
 
-<p align = "center">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=GuiSalva&show_icons=true&theme=city_lights&line_height=27&hide_border=true">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSalva&layout=compact&langs_count=6&theme=city_lights&hide_border=true">
-</p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GuiSalva&show_icons=true&locale=en&layout=compact&theme=city_lights&line_height=0" />
-</p>
-
-<h1>🐍 My Contribution Graph </h1>
-<p align="center">
- <img src="https://github.com/GuiSalva/GuiSalva/blob/output/github-contribution-grid-snake.svg">
-</p>
+<div>
+  <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=GuiSalva&show_icons=true&theme=city_lights&line_height=27&hide_border=true">
+  <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSalva&layout=compact&langs_count=6&theme=city_lights&hide_border=true">
+</div>
