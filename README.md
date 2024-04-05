@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
  <img src="https://github.com/GuiSalva/GuiSalva/blob/main/images/bannerGitDS.gif" />
-</p>
+</p> -->
 
 <h1> Olá, sou o Guilherme 👋 </h1>
 <h3> Aprendiz de TI </h3>
