@@ -31,12 +31,7 @@
 
 <h2>📊 GitHub Stats </h2>
 
-<p align="center">
- <img src="https://badges.pufler.dev/years/GuiSalva"/>
- <img src="https://badges.pufler.dev/repos/GuiSalva"/>
-</p>
-
 <div>
-  <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=GuiSalva&show_icons=true&theme=city_lights&line_height=27&hide_border=true">
-  <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSalva&layout=compact&langs_count=6&theme=city_lights&hide_border=true">
+  <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=GuiSalva&show_icons=true&theme=react&line_height=27&hide_border=true">
+  <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=react&hide_border=true">
 </div>
