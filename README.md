@@ -3,7 +3,7 @@
 </p> -->
 
 <h1> Olá, sou o Guilherme 👋 </h1>
-<h3> Aprendiz de TI </h3>
+<h3> Assistente de TI </h3>
 <p> Tenho 20 anos e atuo na área de TI há 1 ano, gosto muito de programação WEB e Front-end. </p>
 
 <ul>
