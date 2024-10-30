@@ -9,7 +9,6 @@
 <ul>
  <li>❤️ Apaixonado por Games e Tecnologia</li>
  <li>🎓 Formando em <strong>Análise e Desenvolvimento de Sistemas</strong> na CEUNSP Itu</li>
- <li>📚 Cursando <strong>Gestão da Tecnologia da Informação</strong> na FATEC Itu</li>
  <li>💼 Atualmente trabalhando na <a href="https://cobrecom.com.br/" target="_blank">Cobrecom</a></li>
 </ul>
 
@@ -18,11 +17,11 @@
 <h2> 💻 Tech Stack </h2>
 <h4> Minhas Skills </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,react,js,html,css,mysql,git)](https://skillicons.dev)
 
 <h4> Estudando </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=react,jest,scss,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,jest,scss)](https://skillicons.dev)
 
 <h4> Tive contato com </h4>
 
