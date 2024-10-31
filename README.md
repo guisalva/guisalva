@@ -8,7 +8,7 @@
 
 <ul>
  <li>❤️ Apaixonado por Games e Tecnologia</li>
- <li>🎓 Formando em <strong>Análise e Desenvolvimento de Sistemas</strong> na CEUNSP Itu</li>
+ <li>🎓 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> na CEUNSP Itu</li>
  <li>💼 Atualmente trabalhando na <a href="https://cobrecom.com.br/" target="_blank">Cobrecom</a></li>
 </ul>
 
