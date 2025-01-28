@@ -4,7 +4,7 @@
 
 <h1> Olá, sou o Guilherme 👋 </h1>
 <h3> Assistente de TI </h3>
-<p> Tenho 20 anos e atuo na área de TI há 1 ano, gosto muito de programação WEB e Front-end. </p>
+<p> Tenho 21 anos e atuo na área de TI há quase 2 anos. <br><br>No meu serviço, fico responsável do desenvolvimento Front-end de aplicações internas, mas estou começando a me aventurar no Back-end em estudo e projetos pessoais</p>
 
 <ul>
  <li>❤️ Apaixonado por Games e Tecnologia</li>
@@ -21,7 +21,7 @@
 
 <h4> Estudando </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,jest,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,dotnet)](https://skillicons.dev)
 
 <h4> Tive contato com </h4>
 
