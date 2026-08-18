@@ -21,8 +21,4 @@
 
 <h4> Estudando </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,nodejs)](https://skillicons.dev)
-
-<h4> Tive contato com </h4>
-
-[![My Skills](https://skillicons.dev/icons?i=angular,python,java,php,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,java)](https://skillicons.dev)
