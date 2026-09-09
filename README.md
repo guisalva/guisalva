@@ -1,24 +1,27 @@
-<!-- <p align="center">
- <img src="https://github.com/GuiSalva/GuiSalva/blob/main/images/bannerGitDS.gif" />
-</p> -->
+### Hey there 👋
 
-<h1> Olá, sou o Guilherme 👋 </h1>
-<h3> Developer Fullstack </h3>
+I'm Guilherme, a Software Engineer based in Brazil.
 
-<ul>
- <li>❤️ Apaixonado por Games e Tecnologia</li>
- <li>🎓 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> na CEUNSP Itu</li>
- <li>📚 Cursando <strong>Pós-Graduação em Engenharia de Software</strong> na PUC Minas</li>
- <li>💼 Atualmente trabalhando na <a href="https://cobrecom.com.br/" target="_blank">Cobrecom</a></li>
-</ul>
+I enjoy building software, exploring new technologies, and turning ideas into
+simple and useful solutions.
 
-<!-- <img src="https://visitcount.itsvg.in/api?id=GuiSalva&icon=5&color=12"> -->
+I'm currently expanding my knowledge beyond the JavaScript ecosystem and
+focusing my studies on **Java backend development**.
 
-<h2> 💻 Tech Stack </h2>
-<h4> Minhas Skills </h4>
+---
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,nodejs,git)](https://skillicons.dev)
+### Tools & Tech
+- **Frontend:** JavaScript, TypeScript, Vue, React, Tailwind CSS
+- **Backend:** Node.js, Java
+- **Database:** SQL
+- **Testing:** Jest
+- **Tools:** Git, Docker, Postman
+- **Currently learning:** Java & Spring Boot
 
-<h4> Estudando </h4>
+---
 
-[![My Skills](https://skillicons.dev/icons?i=react,java)](https://skillicons.dev)
+### A Bit About Me
+- 🎮 Games are one of my biggest interests
+- 🧠 I like understanding how things work
+- ⛩️ **Naruto** is my favorite anime
+- 📖 Currently reading **The Witcher** book series
